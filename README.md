@@ -1,6 +1,14 @@
 # luckdawn-dev.github.io
 
-Hi Humans!
+Olá mundo!
 
-Lucas here, I like Python and C/Arduino.
-I'm new at this, but I'll keep trying, thank you.
+Me chamo Lucas Camara, amo tecnologia e estou me apaixonando pela área de Front-End.
+
+Aqui alguns dos meus sites: 
+
+
+Clone do Spotify 2018: https://luckdawn-dev.github.io/Spotify/
+
+Site de Gestão Financeira: https://luckdawn-dev.github.io/Finans/
+
+Site de um Museu fictício: https://luckdawn-dev.github.io/Museu_Nacional/
